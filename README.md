@@ -27,4 +27,7 @@ The software tools utilized during the course of the project are:
 2. THINGSPEAK 
 3. IFTTT
 
+# ThingSpeak Channel link
+https://thingspeak.com/channels/1025513
+
 # Read the report for more details on project implementation.
