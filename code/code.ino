@@ -4,9 +4,9 @@
 #include <PulseSensorPlayground.h>     // Includes the PulseSensorPlayground Library.
 
 String APIKEY = "PZSIOY00O197S6XY" ;
-String SSID = "samsungDUOS"  ;   // "SSID-WiFiname"
-String PASS =  "ansari.rkzrksm6.."; // "password"
-String IP =  "184.106.153.149"    ;  // thingspeak.com ip
+String SSID = "XXXXXXXX"  ;   // "SSID-WiFiname"
+String PASS =  "XXXXXXXX"; // "Wi-Fi password"
+String IP =  "184.106.153.149"    ;  // thingspeak.com IP Address
 
 // Variables
 const int PulseWire = A0; 
